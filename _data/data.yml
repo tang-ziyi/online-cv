@@ -26,22 +26,22 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Fluent
+
+      - idiom: Chinese (Mandarin)
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: 
         link:
 
-      - item: Snowboarding
+      - item: 
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
@@ -54,7 +54,7 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Design with a concentration in Advanced Architecture Design 
+    - degree: MSc in Design with a concentration in Architecture Design 
       university: University of Pennsylvania
       time: Sept.2017 - Dec.2018
       details: |
@@ -76,22 +76,16 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+research experiences:
+    - role: Research Assistant
+      time: Feb.2019 - Present
+      company: College of Architecture and Urban Planning at Tongji University, Shanghai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      Data-informed Urban Greenway Planning in Maoming, China 
+      PI: Prof. Yu Ye
+            Apply a series of urban data and machine learning algorithms, including PoIs, LBS, Street view images, etc., to assist the greenway planning.
+            Paper is being reviewed by Urban Forestry & Urban Greening.
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
